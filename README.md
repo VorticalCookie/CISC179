@@ -1,4 +1,5 @@
-# CISC179
+# CISC179 Blackjack Project
+
 Overview:
 Welcome to the Blackjack game implemented in Python! This is a simple command-line version of the classic card game where the objective is to beat the dealer by having a hand value closer to 21 without exceeding it.
 
